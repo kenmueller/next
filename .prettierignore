@@ -2,4 +2,3 @@ node_modules/
 .vercel/
 .next/
 out/
-*.hbs
